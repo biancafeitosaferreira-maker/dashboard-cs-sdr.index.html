@@ -1,57 +1,41 @@
-# Dashboard Profissional
+# Dashboard
 
-Dashboard profissional desenvolvido em **HTML, CSS e JavaScript** com foco em oportunidades de **Customer Success (CS)** e **SDR em Tecnologia**.
+Dashboard desenvolvido para apresentar minha trajetória, métricas, competências técnicas e posicionamento para oportunidades em Customer Success (CS) e SDR em Tecnologia.
 
 ## Features
 
-- 📊 KPIs e métricas profissionais
-- 📈 Gráficos interativos
-- 🧠 Storytelling profissional
-- 💻 Stack técnica
-- 📱 Responsivo
-- 🌙 Dark UI moderna estilo SaaS
+- KPIs e métricas profissionais
+- Gráficos de performance comercial
+- Storytelling profissional
+- Stack técnica em TI
+- Layout responsivo
+- Interface moderna estilo SaaS
 
----
-
-## Tecnologias
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript Vanilla
 
----
+## Competências
 
-##  Como executar
+- Customer Success
+- SDR B2B
+- CRM & Funil Comercial
+- NPS & Retenção
+- Cloud & SaaS
+- Infraestrutura
+- Redes
+- Cibersegurança
+- Análise de Dados
 
-Clone o projeto:
+## Sobre
 
-```bash
-git clone https://github.com/seuusuario/seurepositorio.git
-```
+Bianca Feitosa  
+Customer Success & SDR focada em Tecnologia.
 
-Abra o arquivo:
+Fortaleza — CE  
+Disponível para remoto e híbrido
 
-```bash
-dashboard.index.html
-```
+LinkedIn: https://linkedin.com/in/bianca-feitosa-3617343b9
 
----
-
-## Preview
-
-Dashboard inspirado em interfaces modernas de SaaS, Cybersecurity e Tech.
-
----
-
-##  Desenvolvido por
-
-**Bianca Feitosa**  
-CS & SDR focada em Tecnologia, Cloud e Cibersegurança.
-
-🔗 LinkedIn: https://linkedin.com/in/bianca-feitosa-3617343b9
-
----
-
-## ⭐ Licença
-
-MIT

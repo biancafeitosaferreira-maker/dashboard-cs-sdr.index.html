@@ -34,7 +34,7 @@ Dashboard desenvolvido para apresentar minha trajetória, métricas, competênci
 Bianca Feitosa  
 Customer Success & SDR focada em Tecnologia.
 
-Fortaleza — CE  
+Fortaleza  CE  
 Disponível para remoto e híbrido
 
 LinkedIn: https://linkedin.com/in/bianca-feitosa-3617343b9
